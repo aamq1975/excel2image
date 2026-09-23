@@ -1,0 +1,13 @@
+# Ignore build and temp files
+*.exe
+*.dll
+*.log
+*.tmp
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
